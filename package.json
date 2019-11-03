@@ -1,0 +1,22 @@
+{
+  "name": "hackerbay-university",
+  "version": "1.0.0",
+  "description": "Starting a new project that will be consumed with Reactjs\r This is going to be a project that deals with both backend and front end\r it will be developed with an API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerrycaffe/HackerbayUniversity.git"
+  },
+  "author": "Adeleye jeremiah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerrycaffe/HackerbayUniversity/issues"
+  },
+  "homepage": "https://github.com/jerrycaffe/HackerbayUniversity#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
